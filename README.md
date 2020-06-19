@@ -7,7 +7,7 @@ Binary Calculator API (NodeJS)
 	$ npm run dev
 	```
 > API runs on [http://localhost:3333/calculate](http://localhost:3333/calculate)
-
+- The /calculate method is called with POST HTTP method
 - The body request must be:
   The operation field eg: (+,-,*,/,%)
     ```
